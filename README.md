@@ -1,2 +1,2 @@
 # infra-asa
-Repositório para configuração da prova de asa
+Repositório para configuração da atividade da etapa 1 de asa
