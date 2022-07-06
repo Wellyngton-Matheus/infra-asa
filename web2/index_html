@@ -1,10 +1,18 @@
 <!DOCTYPE html>
 <html>
-<head>
-    <meta charset="UTF-8">
-    <title>Configuração</title>
-</head>
 <body>
-    <h1>Servidor apache - Infra DNS</h1>   
+
+<h2>Servidor APACHE - ASA</h2>
+
+<ul>
+  <li>Git Wellyngton-Matheus</li>
+</ul>  
+
+<h2>An Ordered HTML List</h2>
+
+<ol>
+  <li>Git Wellyngton-Matheu</li>
+</ol> 
+
 </body>
 </html>
